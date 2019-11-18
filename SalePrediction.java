@@ -1,3 +1,9 @@
+/**
+Question
+A sales division of a company generate 62 percent of total sales. 
+Based on that percentage,write a program that will predict how much
+the sales division will generate if the company has $4.6 million in sales this year.
+*/
 import javax.swing.JOptionPane;
 
 public class SalePrediction
