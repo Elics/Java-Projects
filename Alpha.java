@@ -1,3 +1,9 @@
+/**
+Sorted names
+Write a program that asks the user to enter three names and then
+displays the names in ascending order.
+*/
+
 // alphabetical order of 3 words
 import javax.swing.JOptionPane;
 
@@ -5,11 +11,7 @@ public class Alpha
 {
    public static void main(String[] args)
    {
-      /* String name1, name2, name3;
-      name1 = "Charlie";
-      name2 = "Leslie";
-      name3 = "Andy";
-      */
+    
       String name1, name2, name3;
       String output  ="";
       
