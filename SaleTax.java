@@ -1,3 +1,13 @@
+/**
+Sales Tax
+Write a program that will ask the user to enter the amount of a purchase. 
+The program should then coompute the state and county sales tax.
+Assume the state sales tax is 4 percent and the county sales tax is 2 percent.
+The program should display the amount of the purchase plus the total sales tax, 
+and the total of the sale
+(which is the sum  of the amount of purchase plus the total sales tax)
+*/
+
 import javax.swing.JOptionPane;
    //decimals
 
